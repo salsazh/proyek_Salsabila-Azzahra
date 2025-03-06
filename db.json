@@ -1,0 +1,138 @@
+{
+  "user": [
+    {
+      "name": "aryan",
+      "status": "active",
+      "shift": "morning",
+      "tanggal_bekerja": "2023-10-01",
+      "id": 1
+    },
+    {
+      "name": "akash",
+      "status": "inactive",
+      "shift": "evening",
+      "tanggal_bekerja": "2023-10-02",
+      "id": 2
+    },
+    {
+      "name": "rakesh",
+      "status": "inactive",
+      "shift": "morning",
+      "tanggal_bekerja": "2023-10-01",
+      "id": 4
+    },
+    {
+      "name": "vikas",
+      "status": "active",
+      "shift": "night",
+      "tanggal_bekerja": "2023-10-05",
+      "id": 5
+    },
+    {
+      "name": "salsa",
+      "status": "active",
+      "shift": "night",
+      "tanggal_bekerja": "2023-10-04",
+      "id": 1736193380535
+    },
+    {
+      "name": "lutfi",
+      "status": "active",
+      "shift": "night",
+      "tanggal_bekerja": "2023-10-10",
+      "id": 1736361327923
+    }
+  ],
+  "attendance": [
+    {
+      "userId": 1,
+      "date": "2023-10-01",
+      "status": "Hadir",
+      "taskNotes": "ljlijijihilhlihilhilh",
+      "id": 1,
+      "userName": "aryan",
+      "attendanceStatus": "ihiugiuguigiugiug"
+    },
+    {
+      "userId": 1,
+      "date": "2023-10-02",
+      "status": "Izin",
+      "taskNotes": "ini yg jhvhjfytsitdkt",
+      "id": 2,
+      "userName": "aryan",
+      "attendanceStatus": "Izin"
+    },
+    {
+      "userId": 2,
+      "date": "2023-10-01",
+      "status": "Hadir",
+      "taskNotes": "Menyelesaikan tugas harian.",
+      "id": 3,
+      "userName": "akash",
+      "attendanceStatus": "Hadir"
+    },
+    {
+      "userId": 2,
+      "date": "2023-10-02",
+      "status": "Izin",
+      "taskNotes": "Cuti pribadi.",
+      "id": 4,
+      "userName": "akash",
+      "attendanceStatus": "Hadir"
+    },
+    {
+      "userId": 4,
+      "date": "2023-10-01",
+      "status": "Hadir",
+      "taskNotes": "Menyelesaikan tugas harian.",
+      "id": 7,
+      "userName": "rakesh",
+      "attendanceStatus": "Hadir"
+    },
+    {
+      "userId": 4,
+      "date": "2023-10-02",
+      "status": "Izin",
+      "taskNotes": "Cuti pribadi.",
+      "id": 8,
+      "userName": "rakesh",
+      "attendanceStatus": "Izin"
+    },
+    {
+      "userId": 5,
+      "date": "2023-10-01",
+      "status": "Hadir",
+      "taskNotes": "Menyelesaikan tugas harian.",
+      "id": 9,
+      "userName": "vikas",
+      "attendanceStatus": "Hadir"
+    },
+    {
+      "userId": 5,
+      "date": "2023-10-02",
+      "status": "Izin",
+      "taskNotes": "Cuti pribadi.",
+      "id": 10,
+      "userName": "vikas",
+      "attendanceStatus": "Izin"
+    },
+    {
+      "userId": "1736193380535",
+      "date": "2023-10-04",
+      "status": "hadir",
+      "taskNotes": "menyelesaikan tugas",
+      "id": 1736193441725,
+      "userName": "salsa",
+      "attendanceStatus": "Hadir"
+    },
+    {
+      "userId": "1736193380535",
+      "date": "2025-01-09",
+      "status": "active",
+      "taskNotes": "kugkugukgkugu",
+      "id": 1736408363828,
+      "userName": "salsa",
+      "attendanceStatus": "Hadir"
+    }
+  ]
+}
